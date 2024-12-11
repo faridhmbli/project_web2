@@ -1,5 +1,4 @@
-# project_web2
-Nama Kelompok : Bad Vibrations,
+# project_Bad Vibrations
 Anggota : Farid Hambali
           Ridho Pratama Putra
           Arven Tarana,
