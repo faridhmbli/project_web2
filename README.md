@@ -1,5 +1,5 @@
 # project_Bad Vibrations
-Anggota : Farid Hambali
-          Ridho Pratama Putra
-          Arven Tarana,
+Anggota : Farid Hambali,
+          Ridho Pratama Putra,
+          Arven Tarana
 
